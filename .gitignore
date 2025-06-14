@@ -10,7 +10,7 @@ minecraft/*.log
 minecraft/config
 minecraft/coremods
 minecraft/logs
-minecraft/mods/*.jar
+minecraft/natives
 minecraft/options.txt
 minecraft/resourcepacks
 minecraft/resources
