@@ -1,0 +1,16 @@
+filename = 'betterf3-0.5.1.jar'
+name = 'BetterF3 StationAPI'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '51e81f3157735c8cdf5df507f1450578262dd1f3909ba8976fbc16e9e9708be08da210516fd248f64f092dacb2c27e2f3cd445d423c32b64a8981c3f080a5365'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NhFO9av6/versions/8LKWQVrL/betterf3-0.5.1.jar'
+
+[update.modrinth]
+mod-id = 'NhFO9av6'
+version = '8LKWQVrL'

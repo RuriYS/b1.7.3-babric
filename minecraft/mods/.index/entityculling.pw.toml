@@ -1,0 +1,16 @@
+filename = 'entity-culling-1.6.3.jar'
+name = 'Entity Culling'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bfe7c9c13b2ea240326f81910d2c1d2dd897672b43a5e01308799bd88ad18e69a529ddcf63cd65382a04bf57d9034b8c98a4f186145c84ce178349c71f71e50f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NNAgCjsB/versions/2I1m95aJ/entity-culling-1.6.3.jar'
+
+[update.modrinth]
+mod-id = 'NNAgCjsB'
+version = '2I1m95aJ'
